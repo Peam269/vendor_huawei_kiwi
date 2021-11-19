@@ -93,6 +93,8 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/kiwi/proprietary/vendor/lib64/sensors.kiwi.so:$(TARGET_COPY_OUT_VENDOR)/lib64/sensors.kiwi.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/lib_fpc_tac_shared.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_fpc_tac_shared.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/lib_oeminfo_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib_oeminfo_interface.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libaptXHD_encoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libaptXHD_encoder.so \
+    vendor/huawei/kiwi/proprietary/vendor/lib64/libaptX_encoder.so:$(TARGET_COPY_OUT_SYSTEM_EXT)/lib64/libaptX_encoder.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libbtaddr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbtaddr.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libbtpower.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libbtpower.so \
     vendor/huawei/kiwi/proprietary/vendor/lib64/libdmd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libdmd.so \
