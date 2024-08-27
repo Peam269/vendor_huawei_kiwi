@@ -131,17 +131,6 @@ cc_prebuilt_library_shared {
 }
 
 android_app_import {
-	name: "TimeService",
-	owner: "huawei",
-	apk: "proprietary/vendor/app/TimeService/TimeService.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	soc_specific: true,
-}
-
-android_app_import {
 	name: "qcrilmsgtunnel",
 	owner: "huawei",
 	apk: "proprietary/vendor/app/qcrilmsgtunnel/qcrilmsgtunnel.apk",
